@@ -1,0 +1,22 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\LettoreVMG\bin\Release\LettoreVMG.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\LettoreVMG\bin\Release\LettoreVMG.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\LettoreVMG\bin\Release\LettoreVMG.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\LettoreVMG\bin\Release\VMG Reader.dll
+C:\Users\Administrator\AppData\Local\Temporary Projects\LettoreVMG\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\LettoreVMG\obj\Release\LettoreVMG.Form1.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\LettoreVMG\obj\Release\LettoreVMG.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\LettoreVMG\obj\Release\LettoreVMG.vbproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\LettoreVMG\obj\Release\LettoreVMG.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\LettoreVMG\obj\Release\LettoreVMG.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\LettoreVMG\obj\Release\LettoreVMG.pdb
+C:\Users\Administrator\Desktop\prova\LettoreVMG\LettoreVMG\bin\Release\LettoreVMG.exe
+C:\Users\Administrator\Desktop\prova\LettoreVMG\LettoreVMG\bin\Release\LettoreVMG.pdb
+C:\Users\Administrator\Desktop\prova\LettoreVMG\LettoreVMG\bin\Release\LettoreVMG.xml
+C:\Users\Administrator\Desktop\prova\LettoreVMG\LettoreVMG\bin\Release\VMG Reader.dll
+C:\Users\Administrator\Desktop\prova\LettoreVMG\LettoreVMG\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\prova\LettoreVMG\LettoreVMG\obj\Release\LettoreVMG.Form1.resources
+C:\Users\Administrator\Desktop\prova\LettoreVMG\LettoreVMG\obj\Release\LettoreVMG.Resources.resources
+C:\Users\Administrator\Desktop\prova\LettoreVMG\LettoreVMG\obj\Release\LettoreVMG.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\prova\LettoreVMG\LettoreVMG\obj\Release\LettoreVMG.exe
+C:\Users\Administrator\Desktop\prova\LettoreVMG\LettoreVMG\obj\Release\LettoreVMG.xml
+C:\Users\Administrator\Desktop\prova\LettoreVMG\LettoreVMG\obj\Release\LettoreVMG.pdb

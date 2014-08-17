@@ -1,0 +1,37 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\LettoreVMG\bin\Debug\LettoreVMG.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\LettoreVMG\bin\Debug\LettoreVMG.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\LettoreVMG\bin\Debug\LettoreVMG.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\LettoreVMG\bin\Debug\VMG Reader.dll
+C:\Users\Administrator\AppData\Local\Temporary Projects\LettoreVMG\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\LettoreVMG\obj\Debug\LettoreVMG.Form1.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\LettoreVMG\obj\Debug\LettoreVMG.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\LettoreVMG\obj\Debug\LettoreVMG.vbproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\LettoreVMG\obj\Debug\LettoreVMG.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\LettoreVMG\obj\Debug\LettoreVMG.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\LettoreVMG\obj\Debug\LettoreVMG.pdb
+C:\Users\Administrator\Desktop\prova\LettoreVMG\LettoreVMG\obj\Debug\LettoreVMG.exe
+C:\Users\Administrator\Desktop\prova\LettoreVMG\LettoreVMG\obj\Debug\LettoreVMG.xml
+C:\Users\Administrator\Desktop\prova\LettoreVMG\LettoreVMG\obj\Debug\LettoreVMG.pdb
+C:\Users\Administrator\Desktop\prova\LettoreVMG\LettoreVMG\bin\Debug\LettoreVMG.exe
+C:\Users\Administrator\Desktop\prova\LettoreVMG\LettoreVMG\bin\Debug\LettoreVMG.pdb
+C:\Users\Administrator\Desktop\prova\LettoreVMG\LettoreVMG\bin\Debug\LettoreVMG.xml
+C:\Users\Administrator\Desktop\prova\LettoreVMG\LettoreVMG\bin\Debug\VMG Reader.dll
+C:\Users\Administrator\Desktop\prova\LettoreVMG\LettoreVMG\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\prova\LettoreVMG\LettoreVMG\obj\Debug\LettoreVMG.Form1.resources
+C:\Users\Administrator\Desktop\prova\LettoreVMG\LettoreVMG\obj\Debug\LettoreVMG.Resources.resources
+C:\Users\Administrator\Desktop\prova\LettoreVMG\LettoreVMG\obj\Debug\LettoreVMG.vbproj.GenerateResource.Cache
+D:\Vechio hd svuotato\programmi finiti\LettoreVMG\LettoreVMG\obj\Debug\LettoreVMG.exe
+D:\Vechio hd svuotato\programmi finiti\LettoreVMG\LettoreVMG\obj\Debug\LettoreVMG.xml
+D:\Vechio hd svuotato\programmi finiti\LettoreVMG\LettoreVMG\obj\Debug\LettoreVMG.pdb
+D:\Vechio hd svuotato\programmi finiti\LettoreVMG\LettoreVMG\bin\Debug\LettoreVMG.exe
+D:\Vechio hd svuotato\programmi finiti\LettoreVMG\LettoreVMG\bin\Debug\LettoreVMG.pdb
+D:\Vechio hd svuotato\programmi finiti\LettoreVMG\LettoreVMG\bin\Debug\LettoreVMG.xml
+D:\Vechio hd svuotato\programmi finiti\LettoreVMG\LettoreVMG\obj\Debug\ResolveAssemblyReference.cache
+D:\Vechio hd svuotato\programmi finiti\LettoreVMG\LettoreVMG\obj\Debug\LettoreVMG.Form1.resources
+D:\Vechio hd svuotato\programmi finiti\LettoreVMG\LettoreVMG\obj\Debug\LettoreVMG.Resources.resources
+D:\Vechio hd svuotato\programmi finiti\LettoreVMG\LettoreVMG\obj\Debug\ResGen.read.1.tlog
+D:\Vechio hd svuotato\programmi finiti\LettoreVMG\LettoreVMG\obj\Debug\ResGen.write.1.tlog
+D:\Vechio hd svuotato\programmi finiti\LettoreVMG\LettoreVMG\bin\Debug\LettoreVMG.exe.manifest
+D:\Vechio hd svuotato\programmi finiti\LettoreVMG\LettoreVMG\bin\Debug\LettoreVMG.application
+D:\Vechio hd svuotato\programmi finiti\LettoreVMG\LettoreVMG\obj\Debug\LettoreVMG.exe.manifest
+D:\Vechio hd svuotato\programmi finiti\LettoreVMG\LettoreVMG\obj\Debug\LettoreVMG.application
